@@ -1,5 +1,5 @@
 # Cyber-Physical Systems Project: Design and integration of a gripper for vision-based tactile sensing
-Main Author(s) of the Project: Victoria Hellström
+Main Author of the Project: Victoria Hellström
 
 ## Table of Contents
 
