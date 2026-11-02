@@ -18,6 +18,7 @@ A mechatronic research platform for robotic manipulation integrating vision-base
 
 ## System Architecture
 
+![Front view of tactile gripper](Images/front_v5.png)
 
 
 
